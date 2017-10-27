@@ -7,12 +7,16 @@ _______________________________________________
   - Look Kool
   - Easy as 1 Enter Enter!
   - Constant Updated!
+ 
 
 # New Features! 10/26/17
 
    - Unmount your USB directly from the software
    - A little faster
    - Auto Installer
+   -Better Manual Installer
+   -Fixed password issues
+   -more stable (exept for the auto installer)
     
    
 ##### New Features! 10/5/17(old)
