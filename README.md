@@ -1,6 +1,8 @@
 
 
 # What is rubberDEL
+
+## Disclaimer! Go to release tab for newest version!!!
 _______________________________________________
   - Its a Rubber Ducky (HAK5) File Manager
   - Delete .bin files like magic
